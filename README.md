@@ -23,3 +23,5 @@ Dopo 3000 epoche di addestramento, il modello ha raggiunto una **Loss (MSE)** es
 **Esempio di output:**
 - Predizione: 61 €
 - Consumo Reale: 61 €
+
+**Aggiunta Inferenza Interattiva**
